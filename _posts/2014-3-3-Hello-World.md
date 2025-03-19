@@ -2,6 +2,7 @@
 layout: post
 title: Magnetic Storms Affecting Satellites and Electronics
 categories: Research
+date: 2025-03-18
 ---
 
 ## How Magnetic Storms Impact Satellites and Electronics
