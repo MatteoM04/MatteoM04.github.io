@@ -12,4 +12,5 @@ A Recomended paper related to the data is called "Coronal Mass Ejections: a Summ
 
 ## References
 [1] SDAC Virtual Solar Observatory, 2025. Solar Data Search Interface. Available at: https://sdac.virtualsolar.org/cgi/search 
-[2] [1] N. Gopalswamy, “CME interactions with the Earth's magnetosphere,” Proc. Int. Workshop on Solar Activity and its Magnetic Origin, 2010
+
+[2] N. Gopalswamy, “CME interactions with the Earth's magnetosphere,” Proc. Int. Workshop on Solar Activity and its Magnetic Origin, 2010
